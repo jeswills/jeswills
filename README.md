@@ -3,7 +3,7 @@
 
 ### I am working with some amazing minds and here are the key developers on the ReprezentMe project
 - [Samson Kwaku Nkrumah](https://github.com/Boanerges1996)
-- [Livingstone](https://github.com/livingstone9)
+- [Livingstone](https://github.com/livingstone99)
 
 ### Here's some brief about ReprezentMe
 ReprezentMe is an online platform created to solve the challenge of representative democracy primarily in Nigeria and Africa. We are supported by a team of experts across the world. Our vision is to be the most widely used tool for legislative-electorate engagement globally.
