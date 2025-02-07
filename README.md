@@ -3,5 +3,5 @@
 ## Chief Software Architect at [BxTrading Platform](https://www.moneygroom.com/)
 
 ### Here's some brief about my works
-Working on diverse applications for private and corporate use. Converting algorithms in better implementing MRP theories, including applications for decision-making, self-evaluation tools, and specialized online trading.
+Working on diverse applications for private and corporate use. Converting algorithms to better implementing my MRP [Mind Re-engineering and Purpose](https://www.gdihq.com/) theories for growing applications, including applications for decision-making, self-evaluation tools, and specialized online trading.
 
